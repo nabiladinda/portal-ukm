@@ -10,3 +10,5 @@ App\Http\Controllers\berandaController@index
 
 yang di file sdh ado tp kekny ad yg salah itu belom sempurno
 
+view udh selesai semua
+
